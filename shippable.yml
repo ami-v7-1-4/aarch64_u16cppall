@@ -10,7 +10,7 @@ runtime:
 build: 
   pre_ci_boot:
     image_name: drydock/aarch64_u16cppall
-    image_tag: v6.5.4
+    image_tag: master
     pull: true
     
   ci:
